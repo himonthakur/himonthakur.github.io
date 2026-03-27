@@ -1,4 +1,13 @@
-## Research & Project Experience
+---
+layout: single
+title: "My Research"
+permalink: /research
+author_profile: true
+# toc: true
+# toc_label: "Navigation Directory"
+# toc_icon: "compass"
+# toc_sticky: true
+---
 
 <details open>
   <summary><strong>Hierarchical Multi-Agent Framework for Code Inspection</strong></summary>

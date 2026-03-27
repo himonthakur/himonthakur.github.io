@@ -1,3 +1,14 @@
+---
+layout: single
+title: "My Publications"
+permalink: /publication
+author_profile: true
+# toc: true
+# toc_label: "Navigation Directory"
+# toc_icon: "compass"
+# toc_sticky: true
+---
+
 ## Selected Publications
 
 * **Thakur H**, Kalita J; *"Uncertainty-Guided Hierarchical Multi-Agent Planning for Code Inspection and Debugging"*; ACL Rolling Review (ARR) Jan 2026; [Under Review][cite: 19, 20].

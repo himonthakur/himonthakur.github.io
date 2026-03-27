@@ -1,3 +1,14 @@
+---
+layout: single
+title: "My Schools"
+permalink: /education
+author_profile: true
+# toc: true
+# toc_label: "Navigation Directory"
+# toc_icon: "compass"
+# toc_sticky: true
+---
+
 ## Education
 
 <details>

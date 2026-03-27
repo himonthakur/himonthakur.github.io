@@ -1,5 +1,13 @@
-## Professional Experience
-
+---
+layout: single
+title: "Where I've Worked"
+permalink: /experience
+author_profile: true
+# toc: true
+# toc_label: "Navigation Directory"
+# toc_icon: "compass"
+# toc_sticky: true
+---
 <details>
   <summary><strong>Math Tutor | Pre-Collegiate Support, UCCS</strong></summary>
   <ul>

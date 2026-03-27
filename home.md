@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "A Little Bit About Me"
+title: "Himon's Personal Website"
 permalink: /
 author_profile: true
 # toc: true
