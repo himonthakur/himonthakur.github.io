@@ -7,6 +7,8 @@ url: "https://himonthakur.github.io"
 repository: "himonthakur/himonthakur.github.io"
 locale: "en-US"
 
+include: ["_pages"]
+
 atom_feed:
   hide: true
 
@@ -19,7 +21,7 @@ plugins:
 author:
   name: "Himon Thakur"
   avatar: "/assets/images/profile.jpg"
-  bio: "CSCI-MS @ UCCS || GTA, TA, CS Student Staff || agentic AI, RL, multimodal"
+  bio: "Finishing up my CS master's at UCCS. Planning to join a PhD in Fall '26."
   location: "Colorado Springs, CO"
   links:
     - label: "Email"
