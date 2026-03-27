@@ -1,17 +1,17 @@
 ---
 layout: single
-title: "Curriculum Vitae"
+title: "A Little Bit About Me"
 permalink: /
 author_profile: true
-toc: true
-toc_label: "Navigation Directory"
-toc_icon: "compass"
-toc_sticky: true
+# toc: true
+# toc_label: "Navigation Directory"
+# toc_icon: "compass"
+# toc_sticky: true
 ---
 
-Welcome to my academic portfolio. [cite_start]I am currently pursuing my Master of Science in Computer Science at the **University of Colorado Colorado Springs (UCCS)**, affiliated with the Language Information and Computation (LINC) Lab[cite: 9, 10, 13].
+Welcome to my academic portfolio. I am currently pursuing my Master of Science in Computer Science at the **University of Colorado Colorado Springs (UCCS)**, affiliated with the Language Information and Computation (LINC) Lab.
 
-[cite_start]My research bridges **Agentic AI**, **Reinforcement Learning**, and **Quantum Machine Learning**[cite: 12].
+My research bridges **Agentic AI**, **Reinforcement Learning**, and **Quantum Machine Learning**.
 
 ## Education
 
@@ -81,12 +81,12 @@ Welcome to my academic portfolio. [cite_start]I am currently pursuing my Master 
 
 ## Selected Publications
 
-* **Thakur H**, Kalita J; *"Uncertainty-Guided Hierarchical Multi-Agent Planning for Code Inspection and Debugging"*; ACL Rolling Review (ARR) Jan 2026; [cite_start][Under Review][cite: 19, 20].
-* **Thakur H**, Moin A; *"'ENERGY STAR' LLM-Enabled Software Engineering Tools"*; [cite_start]CAIN 2026. <a href="https://doi.org/10.48550/arXiv.2601.19260" target="_blank">arXiv:2601.19260</a>[cite: 21, 22].
-* Fingleton Z, **Thakur H**, Siavash N, Moin A; *Large Language Models for Software Verification and Validation*; RANLP 2025; [cite_start]92[cite: 23, 24].
+* **Thakur H**, Kalita J; *"Uncertainty-Guided Hierarchical Multi-Agent Planning for Code Inspection and Debugging"*; ACL Rolling Review (ARR) Jan 2026; [Under Review][cite: 19, 20].
+* **Thakur H**, Moin A; *"'ENERGY STAR' LLM-Enabled Software Engineering Tools"*; CAIN 2026. <a href="https://doi.org/10.48550/arXiv.2601.19260" target="_blank">arXiv:2601.19260</a>[cite: 21, 22].
+* Fingleton Z, **Thakur H**, Siavash N, Moin A; *Large Language Models for Software Verification and Validation*; RANLP 2025; 92[cite: 23, 24].
 
 ## Technical Skills
 
-[cite_start]**Languages:** Python, C, C++, Java, MATLAB, Bash, SQL [cite: 94]<br>
-[cite_start]**Libraries/Frameworks:** TensorFlow, PyTorch, LangChain ecosystem, OpenCV, Cirq, Qiskit [cite: 95]<br>
-[cite_start]**Tools:** AWS, Docker, Git, LaTeX, Linux [cite: 95]
+**Languages:** Python, C, C++, Java, MATLAB, Bash, SQL<br>
+**Libraries/Frameworks:** TensorFlow, PyTorch, LangChain ecosystem, OpenCV, Cirq, Qiskit<br>
+**Tools:** AWS, Docker, Git, LaTeX, Linux

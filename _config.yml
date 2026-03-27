@@ -1,9 +1,14 @@
 # _config.yml
-title: "Himon Thakur"
+title: "Himon's Personal Website"
+subtitle: "Things I did, things I like now, and things I'm looking forward to"
 name: "Himon Thakur"
-description: "Personal Website"
+description: "Himon's Personal Website"
 url: "https://himonthakur.github.io"
 repository: "himonthakur/himonthakur.github.io"
+locale: "en-US"
+
+atom_feed:
+  hide: true
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes"
@@ -14,7 +19,7 @@ plugins:
 author:
   name: "Himon Thakur"
   avatar: "/assets/images/profile.jpg"
-  bio: "CSCI-MS @ UCCS | GTA, TA, CS Student Staff | agentic AI, RL, multimodal"
+  bio: "CSCI-MS @ UCCS || GTA, TA, CS Student Staff || agentic AI, RL, multimodal"
   location: "Colorado Springs, CO"
   links:
     - label: "Email"
@@ -31,4 +36,4 @@ author:
       url: "https://scholar.google.com/citations?user=_4UA7RsAAAAJ&hl=en"
 
 # Theme Settings
-minimal_mistakes_skin: "default" # You can change this to "dark", "contrast", etc.
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
