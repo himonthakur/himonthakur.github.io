@@ -22,20 +22,7 @@ author:
   name: "Himon Thakur"
   avatar: "/assets/images/profile.jpg"
   bio: "Finishing up my CS master's at UCCS. Planning to join a PhD in Fall '26."
-  location: "Colorado Springs, CO"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hthakur@uccs.edu"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/himonthakur"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/himonthakur"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=_4UA7RsAAAAJ&hl=en"
+
 
 # Theme Settings
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
