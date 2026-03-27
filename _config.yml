@@ -6,7 +6,7 @@ url: "https://himonthakur.github.io" # Replace with your actual GitHub Pages URL
 repository: "himonthakur/himonthakur.github.io"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
