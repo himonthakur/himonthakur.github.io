@@ -1,0 +1,34 @@
+# _config.yml
+title: "Himon Thakur"
+name: "Himon Thakur"
+description: "MSCS Researcher Portfolio"
+url: "https://himonthakur.github.io" # Replace with your actual GitHub Pages URL
+repository: "himonthakur/himonthakur.github.io"
+
+# Build settings
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
+
+# Author Profile (Populates the left sidebar)
+author:
+  name: "Himon Thakur"
+  avatar: "/assets/images/profile.jpg" # Upload a photo to this path in your repo
+  bio: "MS in Computer Science @ UCCS | Researcher in Agentic AI, RL & QML"
+  location: "Colorado Springs, CO"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hthakur@uccs.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/himonthakur"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/himonthakur"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "#" # Add your Google Scholar URL here
+
+# Theme Settings
+minimal_mistakes_skin: "default" # You can change this to "dark", "contrast", etc.
