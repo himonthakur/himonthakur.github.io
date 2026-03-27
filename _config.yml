@@ -7,7 +7,7 @@ url: "https://himonthakur.github.io"
 repository: "himonthakur/himonthakur.github.io"
 locale: "en-US"
 
-include: ["_pages"]
+include: ["_pages", "_posts"]
 
 atom_feed:
   hide: true

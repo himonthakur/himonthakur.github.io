@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "My Research"
-permalink: /research
+permalink: /research/
 author_profile: true
 # toc: true
 # toc_label: "Navigation Directory"

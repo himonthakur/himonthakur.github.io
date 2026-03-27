@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "My Skills"
-permalink: /skills
+permalink: /skills/
 author_profile: true
 # toc: true
 # toc_label: "Navigation Directory"

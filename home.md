@@ -13,14 +13,12 @@ Hi there. I'm a grad student at the **University of Colorado Colorado Springs (U
 
 I did my undergrad in Electrical Engineering. I retained nothing noteworthy from it except my robotics, microcontrollers, and hardware skills.
 
-<a href: "/education"> More about my education </a>
-
 I'm working with Dr. Jugal Kalita in the Language Information and Computation (LINC) Lab. I was a Graduate Research Assistant (GRA) in the Quantum AI and Software (QAS) Lab with Dr. Armin Moin working on Quantum Machine Learning, Hybrid Quantum-Classical NLP, Energy-Efficient AI, and Software Engineering. I also worked with Dr. Adham Atyabi at the NeuroCognition Laboratory (NCL) on Brain-Computer Interface (BCI) and Cognitive Workload Assessment.  
 
 I'm interested in Agentic AI, Continuous and Adaptive Learning, and Multimodal Large Language Models. 
 
 
-<a href: "/contact"> Contact Me </a>
+[Contact Me]({% link _pages/contact.md %})
 
 
 

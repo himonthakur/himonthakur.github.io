@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "My Publications"
-permalink: /publication
+permalink: /publication/
 author_profile: true
 # toc: true
 # toc_label: "Navigation Directory"
