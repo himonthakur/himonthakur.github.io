@@ -10,13 +10,9 @@ permalink: /contact/
 
 <h2>Get in touch</h2>
 
-<img src="/assets/images/profile.jpg" alt="mee" width="250" height="250" style="display: block; margin: 0 auto;">
-
-<br>
+<img src="/assets/images/profile.jpg" alt="mee" width="200" height="200" style="display: block; margin: 0 auto;">
 
 I love and prefer emails, and I'm not on most socials. <br>
-
-<br>
 
 <i class="fas fa-location-arrow"> </i> Colorado Springs, CO <br>
 

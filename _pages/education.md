@@ -13,13 +13,13 @@ permalink: /education/
 
 I'm doing my Master's in Computer Science at <strong>University of Colorado Colorado Springs (UCCS)</strong>. I plan to graduate in August '26. 
 
-<div>
-    <img src="assets/images/uccs/uccs_tower.jpg"  width="80" height="45">
-    <!-- <img src="assets/images/uccs/uccs_osb.jpg"  width="80" height="45" style="display: inline; border-radius: 50%; border: none;">
-    <img src="assets/images/uccs/uccs_engr.jpg"  width="80" height="45" style="display: inline; border-radius: 50%; border: none;">
-    <img src="assets/images/uccs/uccs_squirrel.jpg"  width="80" height="45" style="display: inline; border-radius: 50%; border: none;">
-    <img src="assets/images/uccs/uccs_cloud.jpg"  width="80" height="45" style="display: inline; border-radius: 50%; border: none;"> -->
-</div>
+
+<img src="assets/images/uccs/uccs_tower.jpg"  width="80" height="45">
+<!-- <img src="assets/images/uccs/uccs_osb.jpg"  width="80" height="45" style="display: inline; border-radius: 50%; border: none;">
+<img src="assets/images/uccs/uccs_engr.jpg"  width="80" height="45" style="display: inline; border-radius: 50%; border: none;">
+<img src="assets/images/uccs/uccs_squirrel.jpg"  width="80" height="45" style="display: inline; border-radius: 50%; border: none;">
+<img src="assets/images/uccs/uccs_cloud.jpg"  width="80" height="45" style="display: inline; border-radius: 50%; border: none;"> -->
+
 
 I did my undergrduate in Electrical, Electronic and Communication Engineering at the <strong>Military Institute of Science & Technology (MIST)</strong>.
 
