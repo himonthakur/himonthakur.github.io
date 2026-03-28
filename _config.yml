@@ -1,8 +1,8 @@
 # _config.yml
-title: "Himon's Personal Website"
-subtitle: "Things I did, things I like now, and things I'm looking forward to"
+title: "Himon's Website"
+subtitle: "About me, things I like, and what I am or was up to."
 name: "Himon Thakur"
-description: "Himon's Personal Website"
+description: "Himon's Website"
 url: "https://himonthakur.github.io"
 repository: "himonthakur/himonthakur.github.io"
 locale: "en-US"
