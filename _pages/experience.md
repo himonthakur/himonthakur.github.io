@@ -1,33 +1,16 @@
 ---
 layout: single
-title: "Where I've Worked"
-permalink: /experience
+title: "My Work History"
+permalink: /experience/
 author_profile: true
-# toc: true
-# toc_label: "Navigation Directory"
-# toc_icon: "compass"
-# toc_sticky: true
+toc: true
+toc_label: "Navigation Directory"
+toc_icon: "compass"
+toc_sticky: true
 ---
-<details>
-  <summary><strong>Math Tutor | Pre-Collegiate Support, UCCS</strong></summary>
-  <ul>
-    <li><strong>Timeline:</strong> Aug 2025 - Ongoing [cite: 51]</li>
-    <li>Facilitate virtual group study sessions and assist individual students with linear algebra, calculus, and geometry[cite: 49, 50].</li>
-  </ul>
-</details>
 
-<details>
-  <summary><strong>Graduate Research Assistant | QAS Lab, UCCS</strong></summary>
-  <ul>
-    <li><strong>Timeline:</strong> Apr 2025 - Aug 2025 [cite: 54]</li>
-    <li>Built hybrid quantum versions of machine learning models for NLP tasks (PoS Tagging, NER)[cite: 56].</li>
-  </ul>
-</details>
+I work as a <strong>Math Tutor</strong> at the <strong>Pre-Collegiate Support, UCCS</strong>. I teach students linear algebra, calculus, and geometry.
 
-<details>
-  <summary><strong>Teaching Assistant | Dept. of Computer Science, UCCS</strong></summary>
-  <ul>
-    <li><strong>Timeline:</strong> Aug 2024 - Aug 2025 [cite: 59]</li>
-    <li>TA for courses including Artificial Intelligence, UNIX Programming, and Software Engineering[cite: 60].</li>
-  </ul>
-</details>
+I was a <strong>Graduate Research Assistant (GRA)</strong> at the <strong>Quantum AI & Security (QAS) Lab, UCCS</strong>. I worked on hybrid quantum versions of machine learning models for NLP tasks (PoS Tagging, NER).
+
+I have a lot of <strong>Teaching Assistant (TA)</strong> experience at the <strong>Dept. of Computer Science, UCCS</strong>. I have been a TA for courses including Artificial Intelligence, UNIX Programming, Software Engineering, Python Programming, etc.
