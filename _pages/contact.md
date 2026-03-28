@@ -8,8 +8,8 @@ sidebar:
   avatar: "/assets/images/profile.jpg"
 ---
 
-- <i class="fa fa-location-arrow"> </i> Colorado Springs, CO
-- <i class="fa fa-envelope"> </i> [EMAIL_ADDRESS]
-- <i class="fa fa-github"> </i> [GitHub](/himonthakur)
-- <i class="fa fa-linkedin"> </i> [LinkedIn](/in/himonthakur)
-- <i class="fa fa-google-scholar"> </i> [Google Scholar](https://scholar.google.com/citations?user=_4UA7RsAAAAJ&hl=en)
+- <i class="fas fa-location-arrow"> </i> Colorado Springs, CO
+- <i class="fas fa-envelope"> </i> [EMAIL_ADDRESS]
+- <i class="fab fa-github"> </i> [GitHub](https://github.com/himonthakur)
+- <i class="fab fa-linkedin"> </i> [LinkedIn](https://www.linkedin.com/in/himonthakur)
+- <i class="fas fa-graduation-cap"> </i> [Google Scholar](https://scholar.google.com/citations?user=_4UA7RsAAAAJ&hl=en)

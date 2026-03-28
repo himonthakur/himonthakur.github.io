@@ -11,6 +11,12 @@ author_profile: true
 
 ## Technical Skills
 
-**Languages:** Python, C, C++, Java, MATLAB, Bash, SQL<br>
-**Libraries/Frameworks:** TensorFlow, PyTorch, LangChain ecosystem, OpenCV, Cirq, Qiskit<br>
-**Tools:** AWS, Docker, Git, LaTeX, Linux
+I primarily work with Python for AI and quick prototyping using Jupyter in VS Code or Google Colab. I like PyTorch. Tensoflow is fine too. Too many version conflicts.
+
+I use LangChain, LangGraph, HuggingFace, OpenCV
+
+I used Cirq, Qiskit, Pennylane for quantum computing.
+
+I frequently used C, C++, Java, MATLAB at different points of my life.
+
+AWS, Docker, Git, LaTeX, Linux
