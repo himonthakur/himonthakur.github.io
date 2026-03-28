@@ -11,7 +11,7 @@ permalink: /
 
 <!-- <img src="assets/images/home.jpg" alt="meep" width="250" height="250" style="display: block; margin: 0 auto; border-radius: 50%; border: none;"> -->
 
-Hello there. I'm an master's student at the University of Colorado Colorado Springs (UCCS). I'm in the Computer Science Department and my like to research on multi-agents, multi-modal models, and meta-learning. I did my undergrad in Electrical Engineering. I retained nothing noteworthy from it except for my robotics, microcontrollers, and hardware skills.
+Hello there. I'm an master's student at the University of Colorado Colorado Springs (UCCS). I'm in the Computer Science Department and my like to research on multi-agents, multi-modal models, and meta-learning. I did my undergrad in Electrical Engineering.
 
 More about [my education]({% link _pages/education.md %})
 

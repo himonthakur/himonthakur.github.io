@@ -11,16 +11,40 @@ permalink: /education/
 
 <h2>My academic journey</h2>
 
-I'm doing my Master's in Computer Science at <strong>University of Colorado Colorado Springs (UCCS)</strong>. I plan to graduate in August '26. 
+- I'm doing my Master's in Computer Science at <strong>University of Colorado Colorado Springs (UCCS)</strong>. I plan to graduate in August '26. 
 
-<div>
-    <img src="../assets/images/uccs/uccs_tower.jpg"  width="80" height="45">
-    <img src="../assets/images/uccs/uccs_osb.jpg"  width="80" height="45" style="display: inline; border-radius: 50%; border: none;">
-    <img src="../assets/images/uccs/uccs_engr.jpg"  width="80" height="45" style="display: inline; border-radius: 50%; border: none;">
-    <img src="../assets/images/uccs/uccs_squirrel.jpg"  width="80" height="45" style="display: inline; border-radius: 50%; border: none;">
-    <img src="../assets/images/uccs/uccs_cloud.jpg"  width="80" height="45" style="display: inline; border-radius: 50%; border: none;">
+<link rel="stylesheet" href="../assets/css/education.css">
+
+<div class="row">
+    <div class="column">
+        <img src="../assets/images/uccs/uccs_tower.jpg" alt="UCCS Tower">
+        <img src="../assets/images/uccs/uccs_osb.jpg" alt="UCCS OSB">
+        <img src="../assets/images/uccs/uccs_engr.jpg" alt="UCCS Engineering">
+    </div>
+    <div class="column">
+        <img src="../assets/images/uccs/uccs_squirrel.jpg" alt="UCCS Squirrel">
+        <img src="../assets/images/uccs/uccs_cloud.jpg" alt="UCCS Cloud">
+    </div>
 </div>
 
-I did my undergrduate in Electrical, Electronic and Communication Engineering at the <strong>Military Institute of Science & Technology (MIST)</strong>.
+
+
+
+- I did my undergrduate in Electrical, Electronic and Communication Engineering at the <strong>Military Institute of Science & Technology (MIST)</strong>.  I retained nothing noteworthy from it except for my robotics, microcontrollers, and hardware skills.
+
+<div class="row">
+    <div class="column">
+        <img src="../assets/images/mist/mist_project.jpg" alt="MIST Project">
+        <img src="../assets/images/mist/mist_mist.jpg" alt="MIST Winter">
+        <img src="../assets/images/mist/mist_hackathon.jpg" alt="MIST Hackathon">
+    </div>
+    <div class="column">
+        <img src="../assets/images/mist/mist_cartoon.jpg" alt="MIST Random">
+        <img src="../assets/images/mist/mist_poster.png" alt="MIST Poster">
+        <img src="../assets/images/mist/mist_rain.jpg" alt="MIST Rainy Day">
+    </div>
+</div>
+
+
 
 [Go to home]({% link home.md %})
