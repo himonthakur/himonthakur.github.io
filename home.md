@@ -9,7 +9,7 @@ toc_icon: "compass"
 toc_sticky: true
 ---
 
-<img src="assets/images/home.jpg" alt="meep" width="500" height="500" style="display: block; margin: 0 auto;">
+<img src="assets/images/home.jpg" alt="meep" width="250" height="250" style="display: block; margin: 0 auto;">
 
 Hi there. I'm an MSCS student at the [University of Colorado Colorado Springs (UCCS)](https://www.uccs.edu/). I did my undergrad in Electrical Engineering. I retained nothing noteworthy from it except for my robotics, microcontrollers, and hardware skills.
 
