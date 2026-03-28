@@ -9,7 +9,7 @@ permalink: /
 # toc_sticky: true
 ---
 
-![meep](assets/images/home.png)
+![meep](assets/images/home.jpg)
 
 Hi there. I'm an MSCS student at the [University of Colorado Colorado Springs (UCCS)](https://www.uccs.edu/). I did my undergrad in Electrical Engineering. I retained nothing noteworthy from it except for my robotics, microcontrollers, and hardware skills.
 
