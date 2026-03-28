@@ -10,7 +10,7 @@ permalink: /contact/
 
 <h2>Get in touch</h2>
 
-<img src="/assets/images/profile.jpg" alt="mee" width="250" height="250" style="display: block; margin: 0 auto;">
+<!-- <img src="/assets/images/profile.jpg" alt="mee" width="250" height="250" style="display: block; margin: 0 auto;"> -->
 
 <i class="fas fa-location-arrow"> </i> Colorado Springs, CO <br>
 
@@ -21,3 +21,5 @@ permalink: /contact/
 <i class="fab fa-linkedin"> </i> [LinkedIn](https://www.linkedin.com/in/himonthakur) <br>
 
 <i class="fas fa-graduation-cap"> </i> [Google Scholar](https://scholar.google.com/citations?user=_4UA7RsAAAAJ&hl=en) <br>
+
+[Go to home]({% link home.md %})

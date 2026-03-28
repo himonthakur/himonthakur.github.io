@@ -2,11 +2,11 @@
 layout: single
 # title: "My Publications"
 permalink: /publication/
-author_profile: true
-toc: true
-toc_label: "Navigation Directory"
-toc_icon: "compass"
-toc_sticky: true
+# author_profile: true
+# toc: true
+# toc_label: "Navigation Directory"
+# toc_icon: "compass"
+# toc_sticky: true
 ---
 
 <h2>My publications and submissions</h2>
@@ -19,3 +19,5 @@ I have some journal and conference publications. Here are some of them:
 - Fingleton Z, **Thakur H**, Siavash N, Moin A; Large Language Models for Software Verification and Validation; Recent Advances in Natural Language Processing. 2025; 92;
 - Jibon FA, Miraz MH, Tasbir A, Jin HH, Siddiqui DH Sakib M, Tasbir A, Nishar NH, **Thakur H**, Khandakar MU; Graph Attention Network and Radial Basis Function Neural Network-Based Hybrid Framework for Epileptic Seizure Detection from EEG Signal; Journal of Autonomous Intelligence. 2023; 7(3);
 - Jibon FA, Khandaker MU, Miraz MH, **Thakur H**, Rabby F, Tamam N, Sulieman A, Itas YS, Osman H; Cancerous and Non-Cancerous Brain MRI Classification Method Based on Convolutional Neural Network and Log-Polar Transformation; Healthcare. 2022; 10(9):1801;
+
+[Go to home]({% link home.md %})
