@@ -4,7 +4,7 @@ title: "Himon's Website"
 permalink: /
 author_profile: true
 toc: true
-toc_label: "Navigation Directory"
+toc_label: "Navigation"
 toc_icon: "compass"
 toc_sticky: true
 ---

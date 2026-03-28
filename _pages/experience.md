@@ -9,6 +9,8 @@ toc_icon: "compass"
 toc_sticky: true
 ---
 
+<h1>My Work History</h1>
+
 I work as a <strong>Math Tutor</strong> at the <strong>Pre-Collegiate Support, UCCS</strong>. I teach students linear algebra, calculus, and geometry.
 
 I was a <strong>Graduate Research Assistant (GRA)</strong> at the <strong>Quantum AI & Security (QAS) Lab, UCCS</strong>. I worked on hybrid quantum versions of machine learning models for NLP tasks (PoS Tagging, NER).

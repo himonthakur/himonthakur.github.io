@@ -9,7 +9,7 @@ toc_label: "Navigation Directory"
 toc_sticky: true
 ---
 
-## Technical Skills
+<h1>My Skills</h1>
 
 I primarily work with *Python* for AI and quick prototyping using *Jupyter* in *VS Code* or *Google Colab*. I like *PyTorch*. *Tensoflow* is fine too, but too many version conflicts.
 

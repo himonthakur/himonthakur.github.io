@@ -9,6 +9,8 @@ toc_icon: "compass"
 toc_sticky: true
 ---
 
+<h1>My Publications</h1>
+
 I have some journal and conference publications. Here are some of them:
 
 - **Thakur H**, Kalita J; ”Uncertainty-Guided Hierarchical Multi-Agent Planning for Code Inspection and Debugging”; ACL Rolling Review (ARR) Jan 2026; [Under Review]
