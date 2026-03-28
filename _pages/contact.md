@@ -10,7 +10,9 @@ permalink: /contact/
 
 <h2>Get in touch</h2>
 
-<!-- <img src="/assets/images/profile.jpg" alt="mee" width="250" height="250" style="display: block; margin: 0 auto;"> -->
+<img src="/assets/images/profile.jpg" alt="mee" width="250" height="250" style="display: block; margin: 0 auto;">
+
+<br>
 
 I love and prefer emails, and I'm not on most socials. <br>
 
