@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My Work History"
+# title: "My Work History"
 permalink: /experience/
 author_profile: true
 toc: true
@@ -9,7 +9,7 @@ toc_icon: "compass"
 toc_sticky: true
 ---
 
-<h1>My Work History</h1>
+<h2>My work history</h2>
 
 I work as a <strong>Math Tutor</strong> at the <strong>Pre-Collegiate Support, UCCS</strong>. I teach students linear algebra, calculus, and geometry.
 

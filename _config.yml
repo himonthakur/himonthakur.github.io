@@ -18,10 +18,10 @@ plugins:
   - jekyll-include-cache
 
 # Author Profile
-author:
-  name: "Himon Thakur"
-  avatar: "/assets/images/profile.jpg"
-  bio: "Finishing up my CS master's at UCCS. Planning to join a PhD in Fall '26."
+# author:
+#   name: "Himon Thakur"
+#   avatar: "/assets/images/profile.jpg"
+#   bio: "Finishing up my CS master's at UCCS. Planning to join a PhD in Fall '26."
 
 
 # Theme Settings

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My Education"
+# title: "My Education"
 permalink: /education/
 author_profile: true
 toc: true
@@ -9,7 +9,7 @@ toc_icon: "compass"
 toc_sticky: true
 ---
 
-<h1>My Education Journey</h1>
+<h2>My academic journey</h2>
 
 I'm doing my Master's in Computer Science at <strong>University of Colorado Colorado Springs (UCCS)</strong>. I plan to graduate in August '26. 
 

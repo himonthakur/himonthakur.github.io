@@ -1,15 +1,15 @@
 ---
 layout: single
-title: "My Skills"
+# title: "My Skills"
 permalink: /skills/
-author_profile: true
-toc: true
-toc_label: "Navigation Directory"
+# author_profile: true
+# toc: true
+# toc_label: "Navigation Directory"
 # toc_icon: "compass"
-toc_sticky: true
+# toc_sticky: true
 ---
 
-<h1>My Skills</h1>
+<h2>My Skills</h2>
 
 I primarily work with *Python* for AI and quick prototyping using *Jupyter* in *VS Code* or *Google Colab*. I like *PyTorch*. *Tensoflow* is fine too, but too many version conflicts.
 

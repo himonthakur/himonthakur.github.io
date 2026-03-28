@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My Publications"
+# title: "My Publications"
 permalink: /publication/
 author_profile: true
 toc: true
@@ -9,7 +9,7 @@ toc_icon: "compass"
 toc_sticky: true
 ---
 
-<h1>My Publications</h1>
+<h2>My publications and submissions</h2>
 
 I have some journal and conference publications. Here are some of them:
 
