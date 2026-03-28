@@ -10,7 +10,7 @@ permalink: /contact/
 
 <h2>Get in touch</h2>
 
-<img src="/assets/images/profile.jpg" alt="mee" width="200" height="200" style="display: block; margin: 0 auto;">
+<img src="/assets/images/profile.jpg" alt="mee" width="200" height="200" style="display: block; margin: 0 auto; border-radius: 50%; border: none;">
 
 I love and prefer emails, and I'm not on most socials. <br>
 
@@ -22,7 +22,7 @@ I love and prefer emails, and I'm not on most socials. <br>
 
 <i class="fab fa-linkedin"> </i> [/in/himonthakur](https://www.linkedin.com/in/himonthakur) <br>
 
-<i class="fas fa-graduation-cap"> </i> [Google Scholar/dXITneMAAAAJ](https://scholar.google.com/citations?user=_4UA7RsAAAAJ&hl=en) <br>
+<i class="fas fa-graduation-cap"> </i> [Google Scholar](https://scholar.google.com/citations?user=_4UA7RsAAAAJ) <br>
 
 <br>
 
