@@ -51,7 +51,6 @@ body {
 <div class="row">
     <div class="column">
         <img src="../assets/images/uccs/uccs_tower.jpg" alt="UCCS Tower">
-        <img src="../assets/images/uccs/uccs_osb.jpg" alt="UCCS OSB">
         <img src="../assets/images/uccs/uccs_engr.jpg" alt="UCCS Engineering">
     </div>
     <div class="column">
@@ -67,7 +66,6 @@ body {
 
 <div class="row">
     <div class="column">
-        <img src="../assets/images/mist/mist_project.jpg" alt="MIST Project">
         <img src="../assets/images/mist/mist_mist.jpg" alt="MIST Winter">
         <img src="../assets/images/mist/mist_hackathon.jpg" alt="MIST Hackathon">
     </div>
@@ -75,6 +73,7 @@ body {
         <img src="../assets/images/mist/mist_cartoon.jpg" alt="MIST Random">
         <img src="../assets/images/mist/mist_poster.png" alt="MIST Poster">
         <img src="../assets/images/mist/mist_rain.jpg" alt="MIST Rainy Day">
+        <img src="../assets/images/mist/mist_project.jpg" alt="MIST Project">
     </div>
 </div>
 
