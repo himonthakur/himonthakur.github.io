@@ -11,14 +11,14 @@ permalink: /skills/
 
 <h2>My Skills</h2>
 
-I primarily work with *Python* for AI and quick prototyping using *Jupyter* in *VS Code* or *Google Colab*. I like *PyTorch*. *Tensoflow* is fine too, but too many version conflicts.
+I primarily work with <b>Python</b> for AI and quick prototyping using <b>Jupyter</b> in <b>VS Code</b> or <b>Google Colab</b>. I like <b>PyTorch</b>. <b>Tensoflow</b> is fine too, but too many version conflicts.
 
-I use *LangChain*, *LangGraph*, *HuggingFace* for LLM and agentic projects.
+I use <b>LangChain</b>, <b>LangGraph</b>, <b>HuggingFace</b> for LLM and agentic projects.
 
-I have used *Cirq*, *Qiskit*, *Pennylane* for quantum computing projects.
+I have used <b>Cirq</b>, <b>Qiskit</b>, <b>Pennylane</b> for quantum computing projects.
 
-I frequently use *C*, *C++*, *Java*, *MATLAB* for different projects.
+I frequently use <b>C</b>, <b>C++</b>, <b>Java</b>, <b>MATLAB</b> for different projects.
 
-I have worked with AWS products like *SageMaker*, *EC2*, *S3*, *Braket*, etc.
+I have worked with AWS products like <b>SageMaker</b>, <b>EC2</b>, <b>S3</b>, <b>Braket</b>, etc.<br>
 
 [Go to home]({% link home.md %})

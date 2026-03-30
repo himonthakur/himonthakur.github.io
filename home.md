@@ -9,9 +9,9 @@ permalink: /
 # toc_sticky: true
 ---
 
-<img src="assets/images/home.gif" alt="ttp" width="250" height="250" style="display: block; margin: 0 auto; border-radius: 50%; border: none;">
+<img src="assets/images/home.gif" alt="ttp" width="250" height="250" style="display: block; margin: 0 auto; border: none;">
 
-<p>I'm an master's student at the University of Colorado Colorado Springs (UCCS). I'm in the Computer Science Department and I like to research cool things in AI. I did my undergrad in Electrical Engineering.
+I'm an master's student at the University of Colorado Colorado Springs (UCCS). I'm in the Computer Science Department and I like to research cool things in AI. I did my undergrad in Electrical Engineering.
 
 More about [my education]({% link _pages/education.md %}).
 
@@ -29,4 +29,4 @@ Wanna check out [my resume]({% link _pages/resume.md %}) or [skills that I use](
 
 I'm always open to networking, collaborations, and discussing interesting ideas. 
 
-Feel free to [reach out to me]({% link _pages/contact.md %}).</p>
+Feel free to [reach out to me]({% link _pages/contact.md %}).
