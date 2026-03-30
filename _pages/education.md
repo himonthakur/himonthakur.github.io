@@ -13,7 +13,40 @@ permalink: /education/
 
 - I'm doing my Master's in Computer Science at <strong>University of Colorado Colorado Springs (UCCS)</strong>. I plan to graduate in August '26. 
 
-<link rel="stylesheet" href="../assets/css/education.css">
+<!-- <link rel="stylesheet" href="../assets/css/image.css"> -->
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 
 <div class="row">
     <div class="column">
