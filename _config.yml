@@ -56,21 +56,21 @@ social:
 author:
   name: *name
   avatar: "/assets/images/profile.jpg"
-  bio: "MSCS@UCCS | PhD aspirant | I like coffee, cats and rain"
-  location: "Colorado Springs, CO"
+  bio: "Doing my master's. Want to do a PhD.I like coffee, cats and rain."
   links:
-    - label: "GitHub"
+    - label: "Someday I'll update my projects"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/himonthakur"
-    - label: "LinkedIn"
+    - label: "I wish I could leave LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/himonthakur/"
-    - label: "Google Scholar"
+    - label: "Can I has citations?"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=dXITneMAAAAJ&hl=en"
-    - label: "ORCID"
+    - label: "My ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-2345-6789"
+  location: "Colorado Springs, CO"
 
 
 # Footer
