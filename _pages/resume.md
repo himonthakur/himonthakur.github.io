@@ -15,6 +15,6 @@ permalink: /resume/
 
 <iframe src="/assets/files/HThakur-Resume.pdf" width="100%" height="600px"></iframe>
 
-<a href="/assets/files/HThakur-Resume.pdf" download>Download Resume</a><br>
+<a href="/assets/files/HThakur-Resume.pdf" download>Download Resume</a>
 
 [Go to home]({% link home.md %})

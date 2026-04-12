@@ -1,9 +1,10 @@
 # _config.yml
 
 # Build settings
-remote_theme: "alshedivat/al-folio"
+remote_theme: daviddarnes/alembic@main
 plugins:
   - jekyll-include-cache
+  - jekyll-remote-theme
   # - jekyll-sitemap
   # - jekyll-paginate
 

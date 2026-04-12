@@ -22,10 +22,10 @@ I have also two publications on disease detection from EEG and MRI signals [4, 5
 <br>
 
 
-[1] **Thakur H**, Moin A;"'ENERGY STAR' LLM-Enabled Software Engineering Tools"; CAIN 2026 - 5th International Conference on AI Engineering - Software Engineering for AI; <br>
-[2] Rivas CJ, **Thakur H**, Siavash N, Moin A; "A Systematic Literature Review on Quantum Natural Language Processing (QNLP)"; Recent Advances in Natural Language Processing. 2025; 104; <br>
-[3] Fingleton Z, **Thakur H**, Siavash N, Moin A; "Large Language Models for Software Verification and Validation"; Recent Advances in Natural Language Processing. 2025; 92; <br>
-[4] Jibon FA, Miraz MH, Tasbir A, Jin HH, Siddiqui DH Sakib M, Tasbir A, Nishar NH, **Thakur H**, Khandakar MU; "Graph Attention Network and Radial Basis Function Neural Network-Based Hybrid Framework for Epileptic Seizure Detection from EEG Signal"; Journal of Autonomous Intelligence. 2023; 7(3); <br>
-[5] Jibon FA, Khandaker MU, Miraz MH, **Thakur H**, Rabby F, Tamam N, Sulieman A, Itas YS, Osman H; "Cancerous and Non-Cancerous Brain MRI Classification Method Based on Convolutional Neural Network and Log-Polar Transformation"; Healthcare. 2022; 10(9):1801; <br>
+[1] **Thakur H**, Moin A;"'ENERGY STAR' LLM-Enabled Software Engineering Tools"; CAIN 2026 - 5th International Conference on AI Engineering - Software Engineering for AI; 
+[2] Rivas CJ, **Thakur H**, Siavash N, Moin A; "A Systematic Literature Review on Quantum Natural Language Processing (QNLP)"; Recent Advances in Natural Language Processing. 2025; 104;
+[3] Fingleton Z, **Thakur H**, Siavash N, Moin A; "Large Language Models for Software Verification and Validation"; Recent Advances in Natural Language Processing. 2025; 92;
+[4] Jibon FA, Miraz MH, Tasbir A, Jin HH, Siddiqui DH Sakib M, Tasbir A, Nishar NH, **Thakur H**, Khandakar MU; "Graph Attention Network and Radial Basis Function Neural Network-Based Hybrid Framework for Epileptic Seizure Detection from EEG Signal"; Journal of Autonomous Intelligence. 2023; 7(3);
+[5] Jibon FA, Khandaker MU, Miraz MH, **Thakur H**, Rabby F, Tamam N, Sulieman A, Itas YS, Osman H; "Cancerous and Non-Cancerous Brain MRI Classification Method Based on Convolutional Neural Network and Log-Polar Transformation"; Healthcare. 2022; 10(9):1801;
 
 [Go to home]({% link home.md %})
