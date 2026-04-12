@@ -1,31 +1,47 @@
 # _config.yml
 
+
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
-  # - jekyll-sitemap
-  # - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-responsive-image
+  - jekyll-redirect-from
+  - jekyll-commonmark
+
+
+markdown: CommonMark
+timezone: "America/Denver"
+
 
 include: ["_pages", "_posts"]
 
+
 # Site Settings
+locale: "en-US"
+encoding: "utf-8"
+css_inline: true
+atom_feed:
+  hide: true
+
+
 title: "Himon's Website"
 subtitle: "About me, things I like, and what I am or was up to."
-# masterhead_title: "Himon Thakur"
+description: "A website made by Himon Thakur"
+
 name: &name "Himon Thakur"
 first_name: "Himon"
 last_name: "Thakur"
-description: "A website made by Himon Thakur"
 
-encoding: "utf-8"
-timezone: "America/Denver"
 url: "https://himonthakur.github.io"
-# baseurl: "/home"
+baseurl: ""
 repository: "himonthakur/himonthakur.github.io"
 
-locale: "en-US"
 
 social:
   name: "Himon Thakur"
@@ -34,6 +50,7 @@ social:
     - https://www.linkedin.com/in/himonthakur/
     - https://scholar.google.com/citations?user=dXITneMAAAAJ&hl=en
     - https://orcid.org/0000-0003-2345-6789
+
 
 # Author Profile
 author:
@@ -55,9 +72,8 @@ author:
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-2345-6789"
 
-atom_feed:
-  hide: true
 
+# Footer
 footer:
   links:
     - label: "GitHub"
