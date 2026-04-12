@@ -1,0 +1,20 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Education"
+    url: /education/
+  - title: "Experience"
+    url: /experience/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Tags"
+    url: /tags/
+  - title: "Contact"
+    url: /contact/
+    target: _blank
