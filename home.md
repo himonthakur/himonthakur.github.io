@@ -1,11 +1,8 @@
 ---
-layout: about
+layout: single
 title: "Hi, I am Himon."
 permalink: /
-profile:
-  align: right
-  image: profile.jpg
-  image_circular: false
+author_profile: true
 ---
 
 <img src="assets/images/home.gif" alt="ttp" width="250" height="250" style="display: block; margin: 0 auto; border-radius: 50%; border: none;">

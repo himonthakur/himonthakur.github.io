@@ -10,7 +10,7 @@ permalink: /contact/
 #   avatar: "/assets/images/profile.jpg"
 ---
 
-<h2>Get in touch</h2>
+<h1>Get in touch</h1>
 
 
 <img src="/assets/images/profile.jpg" alt="mee" width="200" height="200" style="display: block; margin: 0 auto; border-radius: 50%; border: none;">
