@@ -1,13 +1,21 @@
 ---
 layout: single
-title: "Hi, I am Himon."
+nav: true
+nav_order: 2
+# title: "My Work History"
 permalink: /
+# author_profile: true
+# toc: true
+# toc_label: "Navigation Directory"
+# toc_icon: "compass"
+# toc_sticky: true
+title: "Hi, I am Himon."
 author_profile: false
 ---
 
-<!-- <img src="assets/images/home.gif" alt="ttp" width="250" height="250"> -->
+<img src="assets/images/home.gif" alt="ttp" width="250" height="250">
 
-![ttp](assets/images/home.gif)
+<!-- ![ttp](assets/images/home.gif) -->
 
 I'm an master's student at the University of Colorado Colorado Springs (UCCS). I'm in the Computer Science Department and I like to research cool things in AI. I did my undergrad in Electrical Engineering.
 

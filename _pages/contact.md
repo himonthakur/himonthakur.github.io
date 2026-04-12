@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 nav: true
 nav_order: 7
 # title: "Get in touch"

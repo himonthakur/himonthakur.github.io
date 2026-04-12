@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 nav: true
 nav_order: 2
 # title: "My Work History"
