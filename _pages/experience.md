@@ -11,11 +11,11 @@ permalink: /experience/
 
 <h2>My work history</h2>
 
-I work as a <b>Math Tutor</b> at the <b>Pre-Collegiate Support, UCCS</b>. I teach students linear algebra, calculus, and geometry. I am also a student staff at the <b>Department of Computer Science, UCCS</b>.
+I work as a <strong>Math Tutor</strong> at the <strong>Pre-Collegiate Support, UCCS</strong>. I teach students linear algebra, calculus, and geometry. I am also a student staff at the <strong>Department of Computer Science, UCCS</strong>.
 
-I was a <b>Graduate Research Assistant (GRA)</b> at the <b>Quantum AI & Security (QAS) Lab, UCCS</b>. I worked on hybrid quantum-classical machine learning models for NLP tasks (PoS Tagging, NER). I also worked on Energy-Efficient using Context Engineering and Retrieval-Augmented Generation (RAG). 
+I was a <strong>Graduate Research Assistant (GRA)</strong> at the <strong>Quantum AI & Security (QAS) Lab, UCCS</strong>. I worked on hybrid quantum-classical machine learning models for NLP tasks (PoS Tagging, NER). I also worked on Energy-Efficient using Context Engineering and Retrieval-Augmented Generation (RAG). 
 
-I have extensive <b>Teaching Assistant (TA)</b> experience at the <b>Dept. of Computer Science, UCCS</b>. I have been a TA for courses including Artificial Intelligence, UNIX Programming, Software Engineering, Python Programming, etc.
+I have extensive <strong>Teaching Assistant (TA)</strong> experience at the <strong>Dept. of Computer Science, UCCS</strong>. I have been a TA for courses including Artificial Intelligence, UNIX Programming, Software Engineering, Python Programming, etc.
 
 I also worked at UCCS Admissions as an Orientation Leader.
 

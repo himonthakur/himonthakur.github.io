@@ -59,6 +59,9 @@ body {
     </div>
 </div>
 
+
+
+
 - I did my undergrduate in Electrical, Electronic and Communication Engineering at the <strong>Military Institute of Science & Technology (MIST)</strong>.  I retained nothing noteworthy from it except for my robotics, microcontrollers, and hardware skills.
 
 <div class="row">

@@ -11,7 +11,7 @@ permalink: /research/
 
 <h2>My research interests</h2>
 
-Under construction
+I like AI, the whole superset. I started with CNNs for disease detection, then moved to BCI and cognitive workload assessment, then I tried QML and QNLP, and now I'm working on MMLLMs and MARL for AI intelligence and learning.
 
 [My publications and submissions]({% link _pages/publication.md %})
 
