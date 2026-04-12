@@ -17,9 +17,10 @@ minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "
       # toc_sticky: true
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: daviddarnes/alembic@main
 plugins:
   - jekyll-include-cache
+  - jekyll-remote-theme
   # - jekyll-sitemap
   # - jekyll-paginate
 
