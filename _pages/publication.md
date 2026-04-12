@@ -1,5 +1,7 @@
 ---
-layout: single
+layout: page
+nav: true
+nav_order: 3
 # title: "My Publications"
 permalink: /publication/
 # author_profile: true

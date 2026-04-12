@@ -1,12 +1,11 @@
 ---
-layout: single
+layout: about
 title: "Hi, I am Himon."
 permalink: /
-# author_profile: true
-# toc: true
-# toc_label: "Navigation"
-# toc_icon: "compass"
-# toc_sticky: true
+profile:
+  align: right
+  image: profile.jpg
+  image_circular: false
 ---
 
 <img src="assets/images/home.gif" alt="ttp" width="250" height="250" style="display: block; margin: 0 auto; border-radius: 50%; border: none;">

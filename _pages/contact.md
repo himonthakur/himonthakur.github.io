@@ -1,5 +1,7 @@
 ---
-layout: single
+layout: page
+nav: true
+nav_order: 7
 # title: "Get in touch"
 permalink: /contact/
 # author_profile: true

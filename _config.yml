@@ -1,21 +1,5 @@
 # _config.yml
 
-# Theme Settings
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-# Defaults
-# defaults:
-#   - scope:
-#       path: ""
-#       type: "pages"
-#     values:
-#       layout: "single"
-#       author_profile: false
-#       toc: false
-      # toc_label: "Navigation"
-      # toc_icon: "compass"
-      # toc_sticky: true
-
 # Build settings
 remote_theme: daviddarnes/alembic@main
 plugins:
@@ -30,7 +14,9 @@ include: ["_pages", "_posts"]
 title: "Himon's Website"
 subtitle: "About me, things I like, and what I am or was up to."
 # masterhead_title: "Himon Thakur"
-name: &name "Himon"
+name: &name "Himon Thakur"
+first_name: "Himon"
+last_name: "Thakur"
 description: "A website made by Himon Thakur"
 
 encoding: "utf-8"
@@ -40,8 +26,6 @@ url: "https://himonthakur.github.io"
 repository: "himonthakur/himonthakur.github.io"
 
 locale: "en-US"
-# search: true
-# search_full_content: true
 
 social:
   name: "Himon Thakur"
@@ -50,7 +34,6 @@ social:
     - https://www.linkedin.com/in/himonthakur/
     - https://scholar.google.com/citations?user=dXITneMAAAAJ&hl=en
     - https://orcid.org/0000-0003-2345-6789
-
 
 # Author Profile
 author:
@@ -75,7 +58,6 @@ author:
 atom_feed:
   hide: true
 
-
 footer:
   links:
     - label: "GitHub"
@@ -90,10 +72,3 @@ footer:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-4230-9439"
-
-# compress_html:
-#   enabled: true
-#   comments: false
-#   endings: ["html", "html"]
-#   ignore: false
-#   clippings: all

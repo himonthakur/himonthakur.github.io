@@ -1,5 +1,7 @@
 ---
-layout: single
+layout: page
+nav: true
+nav_order: 6
 # title: "My Resume"
 permalink: /resume/
 # author_profile: true
