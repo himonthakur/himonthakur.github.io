@@ -1,5 +1,7 @@
 ---
-layout: single
+layout: page
+nav: true
+nav_order: 5
 # title: "My Skills"
 permalink: /skills/
 # author_profile: true

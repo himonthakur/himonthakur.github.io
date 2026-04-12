@@ -1,5 +1,7 @@
 ---
-layout: single
+layout: page
+nav: true
+nav_order: 2
 # title: "My Work History"
 permalink: /experience/
 # author_profile: true

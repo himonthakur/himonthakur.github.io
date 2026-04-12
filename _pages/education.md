@@ -1,5 +1,7 @@
 ---
-layout: single
+layout: page
+nav: true
+nav_order: 1
 # title: "My Education"
 permalink: /education/
 # author_profile: true

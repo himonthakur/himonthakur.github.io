@@ -1,5 +1,7 @@
 ---
-layout: single
+layout: page
+nav: true
+nav_order: 4
 # title: "My Research"
 permalink: /research/
 # author_profile: true
