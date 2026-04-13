@@ -5,7 +5,7 @@ nav_order: 4
 title: "My Research"
 permalink: /research/
 --- 
-
+<link rel="stylesheet" href="assets/css/main.scss">
 ## My research interests
 
 I like AI, the whole superset. I started with CNNs for disease detection, then moved to BCI and cognitive workload assessment, then I tried QML and QNLP, and now I'm working on MMLLMs and MARL for AI intelligence and learning.

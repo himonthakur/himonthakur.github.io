@@ -5,7 +5,7 @@ nav_order: 2
 title: "My Education"
 permalink: /education/
 ---
-
+<link rel="stylesheet" href="assets/css/main.scss">
 ## My academic journey (so far)
 
 - <b>University of Colorado Colorado Springs (UCCS)</b>: I'm finishing up my master's in CS.

@@ -5,7 +5,7 @@ permalink: /
 title: "Hi, I am Himon."
 author_profile: false
 ---
-
+<link rel="stylesheet" href="assets/css/main.scss">
 <img src="assets/images/home.gif" alt="ttp">
 
 <!-- ![ttp](assets/images/home.gif) -->

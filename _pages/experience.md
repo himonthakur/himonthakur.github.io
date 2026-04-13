@@ -5,7 +5,7 @@ nav_order: 3
 title: "My Work History"
 permalink: /experience/
 ---
-
+<link rel="stylesheet" href="assets/css/main.scss">
 ## Places I have worked at
 
 - I am a student staff at the <b>Department of Computer Science, UCCS</b>.
