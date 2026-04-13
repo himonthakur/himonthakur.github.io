@@ -1,7 +1,7 @@
 ---
 layout: single
 nav: true
-nav_order: 8
+# nav_order: 8
 title: "Get in touch"
 permalink: /contact/
 # author_profile: true
@@ -9,7 +9,7 @@ permalink: /contact/
 #   author: "Himon Thakur"
 #   avatar: "/assets/images/profile.jpg"
 ---
-I love and prefer emails, and I'm not on most socials. <br><br>
+I love and prefer emails, and I'm not on most socials. <br>
 
 If you don't have anything to sell, email me at <i class="fas fa-envelope"> </i> hthakur at uccs dot edu. <br>
 
