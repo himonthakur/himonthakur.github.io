@@ -3,11 +3,8 @@ layout: single
 nav: true
 nav_order: 1
 permalink: /about/
-title: "About this website"
-# excerpt: "About this website"
+title: "About the website"
 ---
-<link rel="stylesheet" href="assets/css/main.scss">
-## Hi. I am Himon
 
 I'm not sure yet what I want to do with this website, but I'm sure I'll figure it out soon!
 

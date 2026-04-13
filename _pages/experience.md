@@ -2,12 +2,9 @@
 layout: single
 nav: true
 nav_order: 3
-title: "My Work History"
+title: "Places I have worked at"
 permalink: /experience/
 ---
-<link rel="stylesheet" href="assets/css/main.scss">
-## Places I have worked at
-
 - I am a student staff at the <b>Department of Computer Science, UCCS</b>.
 
 - I worked as a <b>Math Tutor</b> at the <b>Pre-Collegiate Support, UCCS</b>. I taught students linear algebra, calculus, and geometry.

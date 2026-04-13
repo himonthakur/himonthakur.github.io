@@ -2,12 +2,9 @@
 layout: single
 nav: true
 nav_order: 4
-title: "My Research"
+title: "My research"
 permalink: /research/
 --- 
-<link rel="stylesheet" href="assets/css/main.scss">
-## My research interests
-
 I like AI, the whole superset. I started with CNNs for disease detection, then moved to BCI and cognitive workload assessment, then I tried QML and QNLP, and now I'm working on MMLLMs and MARL for AI intelligence and learning.
 
 I'm currently working with [Dr. Jugal Kalita](https://scholar.google.com/citations?user=dXITneMAAAAJ&hl=en) in the [Language Information and Computation (LINC) Lab](https://labs.uccs.edu/linclab/). I'm doing my thesis on Multi-Agent Reinforcement Learning (MARL) and working on a few other projects on Intrinsic Emotional Rewards, Multimodal Large Language Models (MMLLMs), and Explainability (XAI).

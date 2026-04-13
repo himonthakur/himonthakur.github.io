@@ -2,12 +2,9 @@
 layout: single
 nav: true
 nav_order: 5
-title: "Bibliography"
+title: "My publications and submissions"
 permalink: /publication/
 ---
-<link rel="stylesheet" href="assets/css/main.scss">
-## My publications and submissions
-
 An independent study I did on optimizing power consumption of LLMs using context engineering and retrieval-augmented generation (RAG) has been accepted [1] at CAIN '26 as part of ICSE '26.
 
 I mentored two undergraduate student during REU '25. We co-authored a systematic literature review on Quantum Natural Language Processing (QNLP) [2], and a survey on LLMs for Software V&V [3].

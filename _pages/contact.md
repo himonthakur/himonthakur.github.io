@@ -2,15 +2,13 @@
 layout: single
 nav: true
 nav_order: 8
-title: "My Contacts"
+title: "Get in touch"
 permalink: /contact/
 # author_profile: true
 # sidebar:
 #   author: "Himon Thakur"
 #   avatar: "/assets/images/profile.jpg"
 ---
-<link rel="stylesheet" href="assets/css/main.scss">
-## How to get in touch
 
 I love and prefer emails, and I'm not on most socials. <br><br>
 
