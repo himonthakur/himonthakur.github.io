@@ -11,7 +11,7 @@ permalink: /resume/
 # toc_sticky: true
 --- 
 
-<h2>My Resume</h2>
+<h1>My Resume</h1>
 
 <iframe src="/assets/files/HThakur-Resume.pdf" width="100%" height="600px"></iframe>
 

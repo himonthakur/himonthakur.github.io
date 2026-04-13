@@ -12,4 +12,4 @@ title: "Thanks!"
 excerpt: "Thanks!"
 ---
 
-Thanks for getting in touch! We'll respond as soon as we can.
+Thank you!
