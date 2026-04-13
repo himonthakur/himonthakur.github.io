@@ -1,17 +1,12 @@
 ---
 layout: single
 nav: true
-nav_order: 5
-# title: "My Skills"
+nav_order: 7
+title: "My skills and tech stack"
 permalink: /skills/
-# author_profile: true
-# toc: true
-# toc_label: "Navigation Directory"
-# toc_icon: "compass"
-# toc_sticky: true
 ---
 
-<h2>My Skills</h2>
+## What I typically use for my projects
 
 I primarily work with *Python* for AI and quick prototyping using *Jupyter* in *VS Code* or *Google Colab*. I like *PyTorch*. *Tensoflow* is fine too, but too many version conflicts.
 

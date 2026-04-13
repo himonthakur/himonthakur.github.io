@@ -2,16 +2,11 @@
 layout: single
 nav: true
 nav_order: 6
-# title: "My Resume"
+title: "My Resume"
 permalink: /resume/
-# author_profile: true
-# toc: true
-# toc_label: "Navigation Directory"
-# toc_icon: "compass"
-# toc_sticky: true
 --- 
 
-<h1>My Resume</h1>
+## Take a look at my resume and if you're hiring, send me an email.
 
 <iframe src="/assets/files/HThakur-Resume.pdf" width="100%" height="600px"></iframe>
 

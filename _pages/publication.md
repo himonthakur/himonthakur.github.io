@@ -1,17 +1,12 @@
 ---
 layout: single
 nav: true
-nav_order: 3
-# title: "My Publications"
+nav_order: 5
+title: "Bibliography"
 permalink: /publication/
-# author_profile: true
-# toc: true
-# toc_label: "Navigation Directory"
-# toc_icon: "compass"
-# toc_sticky: true
 ---
 
-<h1>My publications and submissions</h1>
+## My publications and submissions
 
 An independent study I did on optimizing power consumption of LLMs using context engineering and retrieval-augmented generation (RAG) has been accepted [1] at CAIN '26 as part of ICSE '26.
 
@@ -20,8 +15,6 @@ I mentored two undergraduate student during REU '25. We co-authored a systematic
 I have also two publications on disease detection from EEG and MRI signals [4, 5].
 
 <br>
-
-
 1. **Thakur H**, Moin A;"'ENERGY STAR' LLM-Enabled Software Engineering Tools"; CAIN 2026 - 5th International Conference on AI Engineering - Software Engineering for AI; 
 2. Rivas CJ, **Thakur H**, Siavash N, Moin A; "A Systematic Literature Review on Quantum Natural Language Processing (QNLP)"; Recent Advances in Natural Language Processing. 2025; 104;
 3. Fingleton Z, **Thakur H**, Siavash N, Moin A; "Large Language Models for Software Verification and Validation"; Recent Advances in Natural Language Processing. 2025; 92;

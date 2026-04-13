@@ -1,4 +1,4 @@
-div {
+/* div {
     display: flex;
     justify-content: center;
 }
@@ -6,9 +6,9 @@ div {
 
 * {
     box-sizing: border-box;
-}
+} */
 
-.center {
+img {
     display: block;
     margin: auto;
     width: 50%;

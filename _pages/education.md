@@ -1,17 +1,12 @@
 ---
 layout: single
 nav: true
-nav_order: 1
-# title: "My Education"
+nav_order: 2
+title: "My Education"
 permalink: /education/
-# author_profile: true
-# toc: true
-# toc_label: "Navigation Directory"
-# toc_icon: "compass"
-# toc_sticky: true
 ---
 
-<h1>My academic journey</h1>
+## My academic journey (so far)
 
 - <b>University of Colorado Colorado Springs (UCCS)</b>: I'm finishing up my master's in CS.
 
