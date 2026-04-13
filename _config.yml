@@ -1,46 +1,47 @@
 # _config.yml
 
-# Theme Settings
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-# Defaults
-# defaults:
-#   - scope:
-#       path: ""
-#       type: "pages"
-#     values:
-#       layout: "single"
-#       author_profile: false
-#       toc: false
-      # toc_label: "Navigation"
-      # toc_icon: "compass"
-      # toc_sticky: true
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
-  # - jekyll-sitemap
-  # - jekyll-paginate
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-responsive-image
+  - jekyll-redirect-from
+  - jekyll-commonmark
+
+
+markdown: CommonMark
+timezone: "America/Denver"
+
 
 include: ["_pages", "_posts"]
 
+
 # Site Settings
+locale: "en-US"
+encoding: "utf-8"
+css_inline: true
+atom_feed:
+  hide: true
+
+
 title: "Himon's Website"
 subtitle: "About me, things I like, and what I am or was up to."
-# masterhead_title: "Himon Thakur"
-name: &name "Himon"
 description: "A website made by Himon Thakur"
 
-encoding: "utf-8"
-timezone: "America/Denver"
+name: &name "Himon Thakur"
+first_name: "Himon"
+last_name: "Thakur"
+
 url: "https://himonthakur.github.io"
-# baseurl: "/home"
+baseurl: ""
 repository: "himonthakur/himonthakur.github.io"
 
-locale: "en-US"
-# search: true
-# search_full_content: true
 
 social:
   name: "Himon Thakur"
@@ -55,26 +56,24 @@ social:
 author:
   name: *name
   avatar: "/assets/images/profile.jpg"
-  bio: "MSCS@UCCS | PhD aspirant | I like coffee, cats and rain"
-  location: "Colorado Springs, CO"
+  bio: "Doing my master's. Want to do a PhD.I like coffee, cats and rain."
   links:
-    - label: "GitHub"
+    - label: "Someday I'll update my projects"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/himonthakur"
-    - label: "LinkedIn"
+    - label: "I wish I could leave LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/himonthakur/"
-    - label: "Google Scholar"
+    - label: "Can I has citations?"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=dXITneMAAAAJ&hl=en"
-    - label: "ORCID"
+    - label: "My ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-2345-6789"
-
-atom_feed:
-  hide: true
+  location: "Colorado Springs, CO"
 
 
+# Footer
 footer:
   links:
     - label: "GitHub"
@@ -89,10 +88,3 @@ footer:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-4230-9439"
-
-# compress_html:
-#   enabled: true
-#   comments: false
-#   endings: ["html", "html"]
-#   ignore: false
-#   clippings: all

@@ -1,18 +1,15 @@
 ---
 layout: single
-# title: "My Resume"
+nav: true
+nav_order: 6
+title: "My unremarkable resume"
 permalink: /resume/
-# author_profile: true
-# toc: true
-# toc_label: "Navigation Directory"
-# toc_icon: "compass"
-# toc_sticky: true
---- 
+---
+If you're hiring, send me an email :)
 
-<h2>My Resume</h2>
+<iframe src="/assets/files/HThakur-Resume.pdf" width="75%" height="500px"></iframe>
 
-<iframe src="/assets/files/HThakur-Resume.pdf" width="100%" height="600px"></iframe>
+<a href="/assets/files/HThakur-Resume.pdf" download>Want to download it?</a>
 
-<a href="/assets/files/HThakur-Resume.pdf" download>Download Resume</a><br>
-
+<br><br>
 [Go to home]({% link home.md %})
