@@ -8,7 +8,7 @@ title: "About the website"
 
 I'm not sure yet what I want to do with this website, but I'm sure I'll figure it out soon!
 
-<img src="..//assets/images/profile.jpg" alt="mee" style="border-radius: 50%;">
+<img src="..//assets/images/profile.jpg" alt="mee" style="border-radius: 25%;">
 
 As for me, I'm a grad student. I like to research cool things in AI. And, I like to shout about things I like.
 

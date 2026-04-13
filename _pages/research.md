@@ -13,7 +13,6 @@ I was a Graduate Research Assistant (GRA) in the [Quantum AI and Software (QAS) 
 
 <br>
 [My publications and submissions]({% link _pages/publication.md %})
-
 [My Google Scholar](https://scholar.google.com/citations?user=_4UA7RsAAAAJ&hl=en)
 
 <br>

@@ -11,7 +11,8 @@ I mentored two undergraduate student during REU '25. We co-authored a systematic
 
 I have also two publications on disease detection from EEG and MRI signals [4, 5].
 
-<br>
+Full list of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=_4UA7RsAAAAJ).
+
 1. **Thakur H**, Moin A;"'ENERGY STAR' LLM-Enabled Software Engineering Tools"; CAIN 2026 - 5th International Conference on AI Engineering - Software Engineering for AI; 
 2. Rivas CJ, **Thakur H**, Siavash N, Moin A; "A Systematic Literature Review on Quantum Natural Language Processing (QNLP)"; Recent Advances in Natural Language Processing. 2025; 104;
 3. Fingleton Z, **Thakur H**, Siavash N, Moin A; "Large Language Models for Software Verification and Validation"; Recent Advances in Natural Language Processing. 2025; 92;

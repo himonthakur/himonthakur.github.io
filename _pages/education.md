@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: collection
 nav: true
 nav_order: 2
 title: "Places I've learned stuff"

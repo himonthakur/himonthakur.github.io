@@ -5,7 +5,7 @@ permalink: /
 title: "Hi, I am Himon."
 author_profile: false
 ---
-<img src="assets/images/home.gif" alt="ttp" style="display: block; margin: auto; width: 75%;" >
+<img src="assets/images/home.gif" alt="ttp" style="display: block; margin: auto; width: 50%;">
 
 Nice to meet you. If you want to know more about me, feel free to peruse my humble website.
 
